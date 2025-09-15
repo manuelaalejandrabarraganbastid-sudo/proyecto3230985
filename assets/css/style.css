@@ -1,0 +1,40 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+body{
+    background-color: rgb(76, 0, 255);
+}
+
+#container{
+    width: 80%;
+    margin: 0px auto;
+    box-shadow: 0xp 0xp 10px gray;
+    background-color: rgb(217, 225, 230);
+}
+
+#header{
+    height: 150p;
+    background: #f0f0f0
+}
+
+#logo{
+    padding: 20px margin-left 20px;
+    margin-left: 20px;
+    float: left;
+}
+
+#logo img{
+    float: left;
+    height: 100px;
+}
+#logo a{
+    float: left;
+    font-size: 40px;
+    letter-spacing: 4px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    color: aqua#01B1EA; 
+}
